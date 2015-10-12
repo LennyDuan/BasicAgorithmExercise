@@ -1,0 +1,5 @@
+Input a string. And this String is maked up by cycling small string.
+Find out the the smallest string of cycle.
+
+Sample input : hohoho
+Sample output: 2
