@@ -1,0 +1,14 @@
+It is very hard for children to learn math and find it is easy for making mistake when they calculate add problems.
+Kids will be comfused about carry when one big number add another.
+Your work is to help to solve this problems.
+
+Sample input :  123 456
+                555 555
+                123 594
+Sample output:  
+                0
+                3
+                1
+
+Image that the bigest number wont larger than 9 digits of number.
+The program will only end by input two zero e.g. : 0 0.
