@@ -1,0 +1,6 @@
+When your type on the keyboard, it is easy to tpye wrong like pute your fingers on wrong keyboard.
+For Example: Q would be W, J would be K. Make a program to output the right string.
+
+Sample Input : qwertyuiop   asdfghjkl   zxcv
+Sample output: wertyuiop[   sdfghjkl;   xcvb
+
