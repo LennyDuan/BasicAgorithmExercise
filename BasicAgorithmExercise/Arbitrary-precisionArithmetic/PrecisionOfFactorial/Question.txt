@@ -1,0 +1,5 @@
+Input a integer number which is less then 1000. 
+Output the factorial of this number..
+
+Sample Input :30
+Sample Output:265252859812191058636308480000000
