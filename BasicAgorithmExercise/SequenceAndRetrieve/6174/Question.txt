@@ -1,0 +1,9 @@
+Assuming there is a 4 digits number 'c' and each digits are different.
+You can get number 'a' from sequece the number from big to small.
+And get number 'b' from sequece the number from small to big.
+Then use number 'a - b' to change 'c'. So 'c' = 'a - b'
+And keep going the steps and u can get 6174 .
+
+Sample Input :1234
+Sample output: 1234 > 3087 > 8352 > 6174 
+
