@@ -1,0 +1,17 @@
+Like the table below:
+
+1/1 1/2 1/3 1/4
+2/1 2/2 2/3 
+3/1 3/2 
+4/1
+
+Fisrt item is 1/1, second is 1/2, third is 2/1, forth is 3/1, fifth is 2/2.....
+Your work is input the number and out put what it that.
+
+Sample Input : 3
+               14
+               12345
+
+Sample Output: 2/1
+               2/4
+               59/99
