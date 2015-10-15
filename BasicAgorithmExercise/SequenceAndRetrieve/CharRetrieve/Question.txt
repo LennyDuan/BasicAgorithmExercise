@@ -1,0 +1,12 @@
+Input a dictionary (End with ******). Then input some words. You need to find out all the words in the dictionary when u input a word which can bind wiht the worid in dictionary.
+And Out put follow the dictionary order in a line. If can not find the word in the dictionary. output :(.
+
+Sample Input : tarp given score refund only trap work earn course pepper part ******
+               resco nfudre aptr sett oresuc
+Sample Output: score 
+               refund
+               part tarp trap
+               :(
+               course
+
+
