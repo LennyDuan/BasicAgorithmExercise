@@ -1,0 +1,11 @@
+Input an integer number n(2 < n < 100), Change n! = 1 * 2 * 3 * 4 * n to
+another format.(2, 3, 5....)
+ E.G  825 = 3 * 5^2 * 11 should be replaced by (0 ,1 ,2 ,0 ,1) 
+That means there have 0, 1, 2, 0, 1 of 2, 3, 5, 7, 11.
+Should ingore the number bigger than N.
+
+Sample Input : 5
+              53
+
+Sample Output: 5 ! = 3 1 1
+               53! = 49 23 12 8 4 4 3 2 2 1 1 1 1 1 1 1;
