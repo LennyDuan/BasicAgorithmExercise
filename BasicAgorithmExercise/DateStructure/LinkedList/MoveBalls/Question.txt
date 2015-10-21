@@ -1,0 +1,10 @@
+You have some small balls which were marked with number 1, 2, 3, ...., n from left to right.
+You have two movement option. First is AXY mean move X to the left of Y ball.
+Second is BXY means you can move Ball X to the right of Y.
+For exampe, if you carry out an order A 1 4. The ball 1 will move to the left of 4.
+Input the number of Balls N, number of orders and operation. Out put the final result.
+
+Sample Input : 6 2 
+               A 1 4
+               B 3 5
+Sample Output: 2 1 4 5 3 6

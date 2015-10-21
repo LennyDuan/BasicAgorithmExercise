@@ -1,0 +1,22 @@
+There is a train station in a city.
+           Station
+...........      ...........
+     B<-   ..   ..     A <-
+             : :
+              : c
+              :
+The train rails is set like this. There are N carriages go in to the station from A and marked as 1 ~ N. Your work is to make these carriages go out to B in some order. First in last out.
+You can use mid station C which you can stop some carriages in there. 
+And all the carriage can not go back. In a way is A -> C or C -> B.
+
+Sample Input : 5
+               1 2 3 4 5
+               5
+               5 4 1 2 3
+               6
+               6 5 4 3 2 1
+
+Sample Output: Yes
+               No
+               Yes
+
