@@ -1,0 +1,20 @@
+There is a Binary Tree and the deepest level is D and all the levels of trees are the same.
+And the roots are numbered by 1, 2, 3, 4, ... 2^D -1 from top to down.
+Put a ball at  root 1 and it will fall down. All the roots have a switch and are closed.
+When a ball fall into a root the switch will change. If the switch is closed, ball goes left. Otherwise goes letf.
+
+Some ball starts dropping from 1. Where is the last ball's position?
+Input the deep level D and balls number I. Output the I ball's position. D <=20.
+
+Sample Input : 4 2
+               3 4
+               10 1
+               2 2 
+               8 128
+               16 12345
+Sample output: 12
+               7
+               512 
+               3
+               255      
+               36358
