@@ -1,0 +1,11 @@
+SELECT MAX(Salary) FROM Employee
+WHERE Salary < (SELECT MAX(SALARY) FORM Employee)
+
+
+SELECT MAX(Salary) FROM Employee
+WHERE Salary NOT IN (SELECT MAX(SALARY) FORM Employee)
+
+SELECT (
+	SELECT Salary From Employee
+	ORDER BY Salary DESC LIMIT 1 OFFSET 1
+)
